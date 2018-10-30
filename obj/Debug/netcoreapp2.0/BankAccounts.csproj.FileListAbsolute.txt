@@ -1,0 +1,11 @@
+/Users/csleong/Desktop/Coding Dojo/csharp/BankAccounts/bin/Debug/netcoreapp2.0/BankAccounts.deps.json
+/Users/csleong/Desktop/Coding Dojo/csharp/BankAccounts/bin/Debug/netcoreapp2.0/BankAccounts.runtimeconfig.json
+/Users/csleong/Desktop/Coding Dojo/csharp/BankAccounts/bin/Debug/netcoreapp2.0/BankAccounts.runtimeconfig.dev.json
+/Users/csleong/Desktop/Coding Dojo/csharp/BankAccounts/bin/Debug/netcoreapp2.0/BankAccounts.dll
+/Users/csleong/Desktop/Coding Dojo/csharp/BankAccounts/bin/Debug/netcoreapp2.0/BankAccounts.pdb
+/Users/csleong/Desktop/Coding Dojo/csharp/BankAccounts/obj/Debug/netcoreapp2.0/BankAccounts.csprojResolveAssemblyReference.cache
+/Users/csleong/Desktop/Coding Dojo/csharp/BankAccounts/obj/Debug/netcoreapp2.0/BankAccounts.csproj.CoreCompileInputs.cache
+/Users/csleong/Desktop/Coding Dojo/csharp/BankAccounts/obj/Debug/netcoreapp2.0/BankAccounts.AssemblyInfoInputs.cache
+/Users/csleong/Desktop/Coding Dojo/csharp/BankAccounts/obj/Debug/netcoreapp2.0/BankAccounts.AssemblyInfo.cs
+/Users/csleong/Desktop/Coding Dojo/csharp/BankAccounts/obj/Debug/netcoreapp2.0/BankAccounts.dll
+/Users/csleong/Desktop/Coding Dojo/csharp/BankAccounts/obj/Debug/netcoreapp2.0/BankAccounts.pdb
